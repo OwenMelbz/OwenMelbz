@@ -6,8 +6,6 @@
 
 Over 15 years of experience building web-powered software with a strong focus on user experience and user‑interface design.
 
-Software Engineer at <a href="https://fnatic.com/">Fnatic.</a>
-
 <img width="100%" src="https://user-images.githubusercontent.com/1094740/121677507-df556280-caad-11eb-807d-d073364ccdff.gif" />
 
 <p>
